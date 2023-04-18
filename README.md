@@ -8,6 +8,19 @@ The S&P500 is an index of the 500 largest publicly traded companies in the Unite
 
 ![S&P500_Dashboard_SS.png](https://raw.githubusercontent.com/Martins-Diego/Financial-Performance-of-Companies/main/S&P500_Dashboard_SS.png)
 
+## Table of Contents
+- [Data Collection](#Data-Collection)
+- [Data Pre-Processing](#Data Pre-Processing)
+- [Data Modeling](#Data-Modeling)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-EDA)
+  - [Market Capitalization Cutoffs](#Market-Capitalization-vs-Cutoffs)
+  - [Revenue vs Net Income Performance](#Revenue-vs-Net-Income-Performance)
+  - [Dividend vs Dividend Yield Performance](#Dividend-vs-Dividend-Yield-Performance)
+  - [Price to Book vs Price to Free Cash Flow](#Price-to-Book-vs-Price-to-Free-Cash-Flow)
+  - [Debt-to-Equity Ratio vs Dividend Yield Performance](#Debt-to-Equity-Ratio-vs-Dividend-Yield-Performance)
+  - [Cash Per Share vs Book Per Share Value](#Cash-Per-Share-vs-Book-Per-Share-Value)
+  - [Average True Range vs Relative Volume](#Average-True-Range-vs-Relative-Volume)
+
 ## Data Collection
 
 - [https://www.kaggle.com/datasets/ilyaryabov/financial-performance-of-companies-from-sp500](https://www.kaggle.com/datasets/ilyaryabov/financial-performance-of-companies-from-sp500)
