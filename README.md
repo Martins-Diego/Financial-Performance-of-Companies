@@ -25,7 +25,7 @@ The S&P500 is an index of the 500 largest publicly traded companies in the Unite
 
 - [https://www.kaggle.com/datasets/ilyaryabov/financial-performance-of-companies-from-sp500](https://www.kaggle.com/datasets/ilyaryabov/financial-performance-of-companies-from-sp500)
 
-## Data Pre-Processing
+## Data Pre Processing
 
 To prepare the Financial Performance of Companies from S&P500 dataset for analysis, we used VBA due to its compatibility with Excel and its ability to handle complex processing tasks.
 
