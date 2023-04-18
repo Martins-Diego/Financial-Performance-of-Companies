@@ -269,7 +269,7 @@ LIMIT 5;
 
 Analyzing the relationship between dividend and dividend yield in comparison to market capitalization can reveal how companies with different market sizes offer dividends to their shareholders. Its important to note that dividend is a portion of a company's earnings that is distributed to its shareholders, while dividend yield is a measure of the dividend payout as a percentage of the stock price (Dividends per share / Share price). 
 
-![Higher Market CAP.png](Financial%20Performance%20of%20Companies%20from%20S&P500%20dd88e954c2064223845df261e89b3dec/Higher_Market_CAP.png)
+![Higher Market CAP.png](https://raw.githubusercontent.com/Martins-Diego/Financial-Performance-of-Companies/main/Higher_Market_CAP.png)
 
 Larger companies with high market capitalization may offer lower dividend yields but higher dividend payments due to their financial stability and long-term growth potential. Smaller companies with lower market capitalization may offer higher dividend yields to attract investors and maintain their competitive position in the market.
 
