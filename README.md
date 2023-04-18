@@ -400,9 +400,6 @@ In the S&P 500 index, which primarily consists of large-cap companies, there is 
 
 A Debt-to-Equity Ratio vs. Dividend Yield Performance analysis is essential for investors to evaluate a company's financial health and assess its suitability as an investment. This analysis helps investors understand the company's capital structure, risk profile, and ability to return value to shareholders through dividend payments. 
 
-1. **Risk Assessment:** The debt-to-equity ratio measures a company's financial leverage by comparing its total debt to its shareholders' equity. A high debt-to-equity ratio indicates that the company relies more on debt to finance its operations, which could lead to higher interest expenses and increased financial risk. In contrast, a low ratio implies that the company uses more equity financing and is less exposed to debt-related risks.
-2. **Dividend Yield:** As explained in a previous analysis, dividend yield is a measure of the annual dividend payment as a percentage of the stock's price. A high dividend yield may suggest that the company is generating sufficient cash flows to distribute to shareholders, which could be attractive to income-seeking investors. However, a high dividend yield could also indicate that the stock price has dropped significantly, raising concerns about the company's financial health and future prospects.
-
 **Scenario 1 → Low Debt-to-Equity Ratio and High Dividend Yield**
 
 This scenario indicates a company with a lower financial risk due to its reliance on equity financing and its ability to return value to shareholders through dividend payments. Such companies might be attractive to income-seeking investors who prefer stable returns and lower risks.
