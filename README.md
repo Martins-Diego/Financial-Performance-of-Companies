@@ -308,7 +308,7 @@ LIMIT 5;
 - On the other hand, **NVDA** has an annual dividend of $0.16 per share and the lowest dividend yield of the sample (0.07%). This might imply that the company is focused on reinvesting its profits for growth and may not be as financially stable as AAPL or MSFT despite its considerable market cap.
 - Companies like **XOM** present a particular behavior where both their annual dividend per share price and its dividend yield are considerably high, which may point that they are focused on paying out dividends to their shareholders and may not have as much growth potential as other companies that offer lower dividend yields.
 
-### Price to Book (mrq) vs Price to Free Cash Flow (ttm)
+### Price to Book vs Price to Free Cash Flow 
 
 Comparing the P/B and P/CF ratios can help investors evaluate a company's financial health and market valuation from different perspectives. While the P/B ratio focuses on the company's net asset value, the P/CF ratio emphasizes the company's ability to generate cash flow. By examining both ratios, investors can get a more comprehensive understanding of a company's overall financial position.
 
