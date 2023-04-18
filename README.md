@@ -430,7 +430,7 @@ SELECT
     ELSE 'Unknown'
   END AS Scenario
 FROM
-  CompanyData) SELECT Scenario, COUNT(*) FROM cte GROUP BY scenario
+  CompanyData) SELECT Scenario, COUNT(*) FROM cte GROUP BY Scenario
 ```
 
 A high debt-to-equity ratio can vary depending on the industry and the individual company's financial situation. Generally, a debt-to-equity ratio greater than 1 or 100% is considered high, as it indicates that a company has more debt than equity to finance its assets
