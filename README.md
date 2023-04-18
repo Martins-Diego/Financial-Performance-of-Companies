@@ -6,7 +6,7 @@ The S&P500 is an index of the 500 largest publicly traded companies in the Unite
 
 ## Processed Data Overview
 
-![S&P500 Dashboard SS.png](Financial%20Performance%20of%20Companies%20from%20S&P500%20dd88e954c2064223845df261e89b3dec/SP500_Dashboard_SS.png)
+![S&P500_Dashboard_SS.png](Financial%20Performance%20of%20Companies%20from%20S&P500%20dd88e954c2064223845df261e89b3dec/SP500_Dashboard_SS.png)
 
 ## Data Collection
 
