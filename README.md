@@ -10,7 +10,7 @@ The S&P500 is an index of the 500 largest publicly traded companies in the Unite
 
 ## Table of Contents
 - [Data Collection](#Data-Collection)
-- [Data Pre-Processing](#Data Pre-Processing)
+- [Data Pre Processing](#Data Pre-Processing)
 - [Data Modeling](#Data-Modeling)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-EDA)
   - [Market Capitalization Cutoffs](#Market-Capitalization-vs-Cutoffs)
