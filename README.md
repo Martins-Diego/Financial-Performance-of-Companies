@@ -1,4 +1,7 @@
 # Financial Performance of Companies from S&P500
+[![VBA](https://img.shields.io/badge/VBA-blue)](https://docs.microsoft.com/en-us/office/vba/api/overview/)
+[![MySQL](https://img.shields.io/badge/MySQL-blue)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-yellowgreen)](https://powerbi.microsoft.com/)
 
 ## Business Problem
 
